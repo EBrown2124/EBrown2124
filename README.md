@@ -1,17 +1,13 @@
-### Hi there 👋
 
-<!--
-**EBrown2124/EBrown2124** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hello! 👋
 
-Here are some ideas to get you started:
+My name is Eric Brown
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-sdkjlhfkljasdhflkjasdhfkjlashdfjka
+## What I'm Currently Learning
+
+1. HTML
+2. CSS
+
+
+## What I've Done So Far
+both and terimal
